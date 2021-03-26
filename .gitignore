@@ -1,4 +1,4 @@
-output.gif
+*.gif
 target/
 .classpath
 .idea/
@@ -7,3 +7,4 @@ target/
 cmake-build-debug/
 .DS_STORE
 src/main/resources
+*.iml
